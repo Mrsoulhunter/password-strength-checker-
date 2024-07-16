@@ -5,7 +5,7 @@ def password_strength_checker(password):
     score = 0
 
     # Check length
-    if len(password) >= 10:
+    if len(password) >= 8:
         score += 1
 
     # Check for lowercase letters
