@@ -5,7 +5,7 @@ A simple password strength checker built with Python and Tkinter. This tool chec
 ## Features
 
 - Checks password strength based on:
-  - Length (minimum 10 characters)
+  - Length (minimum 8 characters)
   - Lowercase letters
   - Uppercase letters
   - Digits
@@ -20,4 +20,4 @@ A simple password strength checker built with Python and Tkinter. This tool chec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/Mrsoulhunter/password-strength-checker.git
